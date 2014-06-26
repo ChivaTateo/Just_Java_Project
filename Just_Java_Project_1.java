@@ -8,7 +8,7 @@ package just_java_project_1;
 
 /**
  * Демонстрирующая программа списка и стека. 
- * Ничего 
+ * 
  * @author Кирилл Климук
  */
 public class Just_Java_Project_1 {
